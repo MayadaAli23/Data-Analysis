@@ -87,5 +87,3 @@ _Data Analyst_
 LinkedIn: https://www.linkedin.com/in/mayadaali23/
 GitHub: https://github.com/MayadaAli23
 
-
-## ⭐️ If you like this project, feel free to star it and share it!
